@@ -785,7 +785,7 @@ local store_order = {
 -- Библиотеки
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
-loadstring(game:HttpGet('https://github.com/Autosellere/ScriptCasualStock/blob/main/v0.15'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Autosellere/ScriptCasualStock/refs/heads/main/v0.15'))()
 
 -- Окно
 local Window = Rayfield:CreateWindow({
